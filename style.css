@@ -1,0 +1,82 @@
+body {
+  width: 100%;
+  height: 100%;
+}
+.headf{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin:0 auto;
+  padding: 39px;
+}
+.bigbox{
+  max-width: 1450px;
+  width: 100%
+  margin:0 auto;
+}
+.smollbox{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo{
+  display: flex;
+}
+nav {
+  display: flex;
+}
+.navigation{
+  display: flex;
+  max-width: 1450px;
+  width: 100%
+}
+.nav-li{
+  margin-right: 15px;
+  font-size: 20px;
+}
+.bigimg{
+  max-width: 1450px;
+  width: 100%;
+  margin-bottom: 50px;
+}
+label{
+  margin-left: 110px;
+  margin-top: 10px;
+}
+input{
+  width: 100%;
+  padding: 12px 20px;
+  margin-left: 80px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  box-shadow: 5px 5px 5px rgb(201,199,199);
+  border:rgb(202,200,200) 1px solid;
+}
+a{
+  color: olive;
+}
+.textarea-block{
+  width: 100%;
+  padding: 12px 20px;
+  margin-left: 80px; 
+  margin-bottom: 10px;
+  box-shadow: 5px 5px 5px rgb(201,199,199);
+  border:rgb(202,200,200) 1px solid;
+}
+.from-warp{
+  width:100%
+  max-width: 630px;
+  width:100%
+}
+
+.Topp
+{
+  margin-left: 80px;
+  background-color: black;
+  color: #fff;
+  border: 150px;
+  height: 52px;
+  font-size: 21px;
+  margin-top: 40px;
+  margin-bottom: 210px;
+}
